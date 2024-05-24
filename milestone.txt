@@ -1,0 +1,35 @@
+CS193X Final Project Milestone
+==============================
+
+Project Title: Music Recommendation App
+Your Name: Alan Zhang
+Your SUNetID: alanzal
+
+Overview
+--------
+I have designed how the data storing process and API would look like. I have a good idea
+of what the front end will look like visually.
+
+Project Changes
+---------------
+I decided to change the structure of the project into more of a social media app that allows
+users to share music reommendations in a fixed format (ex. song name + artist). The app would specialize in music recommendation/sharing.
+
+Implementation Details
+----------------------
+Each user's follower information will be stored in MongoDB. Each time the user recommends a song on the app,
+this recommendation would also be stored in MongoDB. In terms of front-end, the user
+would be able to type in the song name and artist name in text inputs and press a button
+to share a song rec to all followers.
+
+External libraries and code
+---------------------------
+None
+
+Collaboration and resources
+---------------------------
+None
+
+Anything else?
+--------------
+None

@@ -1,0 +1,2 @@
+db = connect("cs193x_project");
+db.dropDatabase();
